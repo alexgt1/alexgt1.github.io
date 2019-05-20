@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>George Alexander Portfolio</title>
+
+    <link rel="shortcut icon" href="favicon.ico">
+
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/styles.css">
+
+  </head>
+  <body>
+    <header id="top">
+  <div class="overlay">
+
+  </div>
+  <div class="container h-100">
+
+    <div class="d-flex h-100 text-center align-items-center">
+      <a class="main-site" href="https://thetanewzealand.github.io/">Visit Main Site <i class="fas fa-arrow-circle-right"></i></a>
+      <div class="w-100 text-white main-text">
+        <img class="background-img" src="logo1.png" alt="theta">
+        <h1 class="display-3"></h1>
+        <p class="lead mb-0">Documentation to help you edit, update and create content for your site.</p>
+      </div>
+      <div class="down">
+          <a class="ct-btn-scroll ct-js-btn-scroll" href="#documentation"><img alt="Arrow Down Icon" src="https://www.solodev.com/assets/anchor/arrow-down.png"></a>
+      </div>
+    </div>
+  </div>
+</header>
+
+<section>
+  <div class="container">
+    <div class="row flexbox" id="documentation">
+      <div class="col-md-8 offset-md-1 lhs">
+
+        {% for section in site.sections %}
+        <div class="section-divider" id="{{section.section_number}}">
+          <h1>{{ section.section_title }}</h1>
+          <p>{{ section.content }}</p>
+          <hr>
+        </div>
+        {% endfor %}
+
+
+      </div>
+      <div class="col-md-3 offset-md-1 rhs d-sm-none d-xs-none">
+        <div class="list-group d-sm-none">
+          <a class="list-group-item list-group-item-action active"><i class="fas fa-info-circle"></i> Menu</a>
+          {% for section in site.sections %}
+          <a href="#{{section.section_number}}" class="list-group-item list-group-item-action"> {{ section.section_title }}</a>
+          {% endfor %}
+          </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<footer class="footer">
+     <div class="container">
+       <p class="footer-text">© 2019 THETA. ALL RIGHTS RESERVED.</p>
+       <p><a href="#top">Back to Top <i class="fas fa-chevron-up"></i></a></p>
+     </div>
+   </footer>
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/scroll-down.js"></script>
+
+  </body>
+</html>
