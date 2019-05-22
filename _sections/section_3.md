@@ -1,6 +1,6 @@
 ---
 section_number: 3
-section_title: Choosing a page layout
+section_title: First meeting with Grant
 
 ---
 

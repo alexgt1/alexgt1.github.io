@@ -4,12 +4,10 @@ section_title: First meeting with Adon
 
 ---
 
-1. Visit [cloudcannon.com](https://cloudcannon.com/) to sign in to your account.
+Had my first meeting with Adon today, a non profit organisation called THETA got in contact regarding the possibility of having a website made that would cost them less to maintain than their current one.
 
-2. Click the 'Log In' button in the top right hand corner of the page.
+At the moment they use an agency for all the changes they want to be made to the site which ends up costing them money for each individual change.
 
-    ![sign in](img/login.png)
+Adon suggested I look into building them a new site using Jekyll and hosting it for free in GitHub. 
 
-3. Enter your details into the form and click the 'Log In' button.
 
-    ![login](img/login-page.png)
