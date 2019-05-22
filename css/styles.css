@@ -27,6 +27,12 @@ header .overlay {
 }
 
 
+.view{
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+
 .main-image{
  background-size: cover;
  width: 100%;
