@@ -67,6 +67,11 @@ a:hover{
 
 }
 
+.breadcrumb{
+  background-color: transparent!important;
+  padding: 0px!important;
+}
+
 .lhs{
   padding-top: 40px;
   padding-left: 60px;
