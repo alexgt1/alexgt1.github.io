@@ -27,6 +27,16 @@ header .overlay {
 }
 
 
+.polytech header {
+  position: relative;
+  height: 50vh;
+  min-height: 25rem;
+  width: 100%;
+  overflow: hidden;
+  background: url(../polytech.png) fixed;
+  z-index: 1;
+}
+
 .main-image{
  background-size: cover;
  width: 100%;
