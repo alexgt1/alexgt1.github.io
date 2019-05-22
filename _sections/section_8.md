@@ -1,6 +1,6 @@
 ---
 section_number: 8
-section_title: Choosing a page layout
+section_title: Using Collections
 
 ---
 

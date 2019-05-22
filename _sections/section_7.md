@@ -1,6 +1,6 @@
 ---
 section_number: 7
-section_title: Adding a new resources page
+section_title: Using control flow statements 
 
 ---
 

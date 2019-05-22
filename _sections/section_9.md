@@ -1,6 +1,6 @@
 ---
 section_number: 8
-section_title: What not to do
+section_title: Switch to CloudCannon
 
 ---
 
