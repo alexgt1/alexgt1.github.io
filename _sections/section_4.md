@@ -5,7 +5,3 @@ section_title: Getting started with Jekyll
 ---
 
 
-
-
-
-    ![Save Work](img/savework.png)
