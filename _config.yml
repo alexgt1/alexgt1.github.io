@@ -1,7 +1,5 @@
 collections:
   sections:
     output: true
-  volunteering:
-    output: true
-  polytechbit:
+  polytech:
     output: true

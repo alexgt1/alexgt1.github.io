@@ -1,6 +1,6 @@
 ---
 section_number: 2
-section_title: Managing Your Files
+section_title: Building the foundation 
 
 ---
 

@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>George Alexander Portfolio</title>
+    <title>Polytech BIT Website | Portfolio</title>
 
     <link rel="shortcut icon" href="favicon.ico">
 
@@ -28,10 +28,10 @@
       <div class="w-100 text-white main-text">
         <img class="background-img" src="logo1.png" alt="theta">
         <h1 class="display-3"></h1>
-        <p class="lead mb-0">Polytech B.I.T Website</p>
+        <p class="lead mb-0">Building a website for the BIT</p>
       </div>
       <div class="down">
-          <a class="ct-btn-scroll ct-js-btn-scroll" href="#documentation"><img alt="Arrow Down Icon" src="https://www.solodev.com/assets/anchor/arrow-down.png"></a>
+          
       </div>
     </div>
   </div>
@@ -42,10 +42,10 @@
     <div class="row flexbox" id="documentation">
       <div class="col-md-8 offset-md-1 lhs">
 
-        {% for section in site.polytechbit %}
-        <div class="section-divider" id="{{section.section_number}}">
-          <h1>{{ section.section_title }}</h1>
-          <p>{{ section.content }}</p>
+        {% for page in site.polytech %}
+        <div class="section-divider" id="{{page.section_number}}">
+          <h1>{{ page.section_title }}</h1>
+          <p>{{ page.content }}</p>
           <hr>
         </div>
         {% endfor %}
@@ -55,8 +55,8 @@
       <div class="col-md-3 offset-md-1 rhs d-sm-none d-xs-none">
         <div class="list-group d-sm-none">
           <a class="list-group-item list-group-item-action active"><i class="fas fa-info-circle"></i> Menu</a>
-          {% for section in site.polytechbit %}
-          <a href="#{{section.section_number}}" class="list-group-item list-group-item-action"> {{ section.section_title }}</a>
+          {% for page in site.polytech %}
+          <a href="#{{page.section_number}}" class="list-group-item list-group-item-action"> {{ page.section_title }}</a>
           {% endfor %}
           </div>
       </div>
