@@ -27,7 +27,9 @@ header .overlay {
 }
 
 
-
+.my-projects{
+  padding-top: 30px!important;
+}
 
 .main-image{
  background-size: cover;
