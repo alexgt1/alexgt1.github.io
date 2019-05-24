@@ -27,6 +27,18 @@ header .overlay {
 }
 
 
+iframe{
+  padding-top: 30px;
+}
+
+.main-content{
+  padding-bottom: 50px;
+}
+
+.my-projects{
+  padding-top: 30px!important;
+}
+
 .main-image{
  background-size: cover;
  width: 100%;
@@ -35,7 +47,7 @@ header .overlay {
 }
 
 .main-text{
-  padding-top: 100px;
+  padding-top: 80px;
   color: #fff;
 }
 
@@ -65,6 +77,11 @@ a:hover{
   transition: 0.5s;
 
 
+}
+
+.breadcrumb{
+  background-color: transparent!important;
+  padding: 0px!important;
 }
 
 .lhs{

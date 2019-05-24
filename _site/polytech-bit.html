@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>Polytech BIT Website | Portfolio</title>
+    <title>Polytech BIT Website | George Alexander | Project 2 Portfolio</title>
 
     <link rel="shortcut icon" href="favicon.ico">
 
@@ -15,20 +15,38 @@
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="css/styles.css">
 
+    <style type="text/css">
+      header {
+  position: relative;
+  height: 50vh;
+  min-height: 25rem;
+  width: 100%;
+  overflow: hidden;
+  background: url(../polytech.png) !important;
+  background-size: cover;
+  background-position-y: center;
+  z-index: 1;
+}
+
+  .list-group-item.active {
+    background-color: #337ab7!important;
+}
+    </style>
+
   </head>
   <body>
-    <header id="top">
+    <header class="polytech" id="top">
   <div class="overlay">
 
   </div>
   <div class="container h-100">
 
     <div class="d-flex h-100 text-center align-items-center">
-      <a class="main-site" href="https://thetanewzealand.github.io/">Visit Main Site <i class="fas fa-arrow-circle-right"></i></a>
       <div class="w-100 text-white main-text">
-        <img class="background-img" src="logo1.png" alt="theta">
+        <img class="background-img" src="https://www.op.ac.nz/resources/themes/op/images/225x105-op-logo.png" alt="theta">
         <h1 class="display-3"></h1>
-        <p class="lead mb-0">Building a website for the BIT</p>
+        <p class="lead mb-0">Creating a website for the B.I.T. using Bootstrap, Sass and Jekyll</p>
+        <p><a class="btn btn-primary" target="_blank" href="https://georgealexander.co.nz/polytech-bit" role="button">View Website</a> <a class="btn btn-primary" target="_blank" href="https://thetanewzealand.github.io/help/" role="button">Documentation</a></p>
       </div>
       <div class="down">
           
@@ -41,7 +59,55 @@
   <div class="container">
     <div class="row flexbox" id="documentation">
       <div class="col-md-8 offset-md-1 lhs">
+          <nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="https://alexgt1.github.io/">Home</a></li>
+    <li class="breadcrumb-item active" aria-current="page">BIT Website</li>
+  </ol>
+</nav>
 
+        
+        <div class="section-divider" id="1">
+          <h1>First meeting with Adon</h1>
+          <p><ol>
+  <li>
+    <p>Visit <a href="https://cloudcannon.com/">cloudcannon.com</a> to sign in to your account.</p>
+  </li>
+  <li>
+    <p>Click the ‘Log In’ button in the top right hand corner of the page.</p>
+
+    <p><img src="img/login.png" alt="sign in" /></p>
+  </li>
+  <li>
+    <p>Enter your details into the form and click the ‘Log In’ button.</p>
+
+    <p><img src="img/login-page.png" alt="login" /></p>
+  </li>
+</ol>
+</p>
+          <hr>
+        </div>
+        
+        <div class="section-divider" id="2">
+          <h1>First meeting with Adon</h1>
+          <p><ol>
+  <li>
+    <p>Visit <a href="https://cloudcannon.com/">cloudcannon.com</a> to sign in to your account.</p>
+  </li>
+  <li>
+    <p>Click the ‘Log In’ button in the top right hand corner of the page.</p>
+
+    <p><img src="img/login.png" alt="sign in" /></p>
+  </li>
+  <li>
+    <p>Enter your details into the form and click the ‘Log In’ button.</p>
+
+    <p><img src="img/login-page.png" alt="login" /></p>
+  </li>
+</ol>
+</p>
+          <hr>
+        </div>
         
 
 
@@ -49,6 +115,10 @@
       <div class="col-md-3 offset-md-1 rhs d-sm-none d-xs-none">
         <div class="list-group d-sm-none">
           <a class="list-group-item list-group-item-action active"><i class="fas fa-info-circle"></i> Menu</a>
+          
+          <a href="#1" class="list-group-item list-group-item-action"> First meeting with Adon</a>
+          
+          <a href="#2" class="list-group-item list-group-item-action"> First meeting with Adon</a>
           
           </div>
       </div>
@@ -58,7 +128,6 @@
 
 <footer class="footer">
      <div class="container">
-       <p class="footer-text">© 2019 THETA. ALL RIGHTS RESERVED.</p>
        <p><a href="#top">Back to Top <i class="fas fa-chevron-up"></i></a></p>
      </div>
    </footer>
