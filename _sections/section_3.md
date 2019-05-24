@@ -11,6 +11,8 @@ Their current website has a content management system however it is very limited
 
 ![Current Site](../theta-site.PNG)
 
+**Pictured: The current Theta website**
+
 
 The main take aways from the meeting were that I had to build a website that would allow for greater control over details such as these. As well as this I will have to put together some documentation for Grant as coming to terms with MarkDown in GitHub will be an adjustment from the current layout of THETA's backend which is in SilverStripe.  
 
