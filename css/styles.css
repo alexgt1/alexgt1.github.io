@@ -27,6 +27,10 @@ header .overlay {
 }
 
 
+.main-content{
+  padding-bottom: 40px;
+}
+
 .my-projects{
   padding-top: 30px!important;
 }
