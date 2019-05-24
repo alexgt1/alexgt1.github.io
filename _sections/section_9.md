@@ -14,7 +14,7 @@ My next and possibly final task for the THETA website is finalizing the registra
 
 Besides this the websites is complete. 
 
-** Where to from here? **
+**Where to from here?**
 
 I will look to arrange a final meeting with Grant to give him and a few other members of THETA a walkthrough of how the site works as well as transfering the domain name to theta.org.nz which they currently use. 
 
