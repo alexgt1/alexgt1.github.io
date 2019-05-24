@@ -1,0 +1,4 @@
+---
+layout: theta
+permalink: theta
+---
