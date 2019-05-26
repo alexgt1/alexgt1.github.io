@@ -11,3 +11,8 @@ To set up Jekyll I used:
     Jekyll Serve
 
 This command built my site and created a second version in the _site directory. This allows me to run the website locally on a development server making it easy to see changes.
+
+
+**I found this video useful for setting up my Jekyll site**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NJU1wluNrBw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
