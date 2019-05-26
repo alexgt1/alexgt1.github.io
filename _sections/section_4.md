@@ -6,6 +6,7 @@ section_title: Getting started with Jekyll
 
 The mid term break has finally come around which meant I had a decent chunk of time to dedicate to learning Jekyll. I had used Jekyll in project the previous semester and in Multimedia during second year but had to learn it from the ground up this time for the Theta site to function the way I wanted it to.  
 
-I'd found Jekyll to be fairly limited when using it in the past and didn't see the point in changing from basic HTML and CSS.
+Seeing as I had already built the various pages for the website I could now set up Jeyll
 
-A
+    Jekyll Serve
+
