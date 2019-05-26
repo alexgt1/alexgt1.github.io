@@ -1,6 +1,24 @@
 ---
 section_number: 05
-section_title: Front Matter & Liquid 
+section_title: Page Layouts with Front Matter & Liquid 
 
 ---
 
+Now that I had Jekyll installed I began specifying the page layouts of each page, I was able to do this using front matter.
+
+Front matter is used to set variables and metadata on Jekyll sites and is a good way to reduce code duplication across pages.
+
+    ---
+     
+    layout: homepage
+    back_to_top: show
+    slide1_title: Seen our show?
+    slide1_caption:
+    slide1_link_text: Take our Sexwise survey
+    slide1_link: 'https://www.surveymonkey.com/r/97FFZJC'
+    slide1_image: /img/1.jpg
+    slide2_title: THETA promotes the development of <br/>healthy attitudes and behaviours.
+    slide2_caption: Enabling young people to make informed lifestyle choices.
+    slide2_image: /img/2.jpg
+
+    ---
