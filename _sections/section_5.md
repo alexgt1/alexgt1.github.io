@@ -4,9 +4,11 @@ section_title: Page Layouts with Front Matter & Liquid
 
 ---
 
-Now that I had Jekyll installed I began specifying the page layouts of each page, I was able to do this using front matter.
+Today I added the layouts to each page, I was able to do this using front matter.
 
 Front matter is used to set variables and metadata on Jekyll sites and is a good way to reduce code duplication across pages.
+
+I used front matter on the home page of the website to specify the content of the page slider
 
     ---
      
@@ -22,3 +24,4 @@ Front matter is used to set variables and metadata on Jekyll sites and is a good
     slide2_image: /img/2.jpg
 
     ---
+
