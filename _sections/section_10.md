@@ -6,7 +6,7 @@ section_title: Second meeting with Grant
 
 As I had more a less finished the website I thought it would be appropriate to arrange a follow up meeting with Grant to discuss the site and any further input he might have. 
 
-It was a good change to show him how to use the back end of the website, which was now in CloudCannon as well where to find the documentation I'd prepared for him.
+It was a good chance to show him how to use the back end of the website, which was now in CloudCannon as well where to find the documentation I'd prepared for him.
 
 Overall Grant was really pleased with the progress of the site and was stoked to no longer have to deal with the one off fees for site maintenance.
 
