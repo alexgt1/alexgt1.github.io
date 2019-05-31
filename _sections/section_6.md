@@ -20,12 +20,8 @@ After setting up the page layouts I was able to start adding in some of the cont
 
 Pictured below is how the MarkDown file is structured.
 
-- The top section, known as the front matter contains page variables such as page name and description while the second section below the three dashes contains the main content of the page. 
+The top section, known as the front matter contains page variables such as page name and description while the second section below the three dashes contains the main content of the page. 
 
-    ---
-    resource_name: Why is sexwise free at my school?
+![Current Site](../learn.PNG)
+
     
-    ---
-
-    The reproductive health statistics of young New Zealanders are highly concerning. The ministry of Health has purchases Sexwise to add value to the health programme of priority schools and work within a coordinated multi-agencu approach to achieve better outcomees.
-
