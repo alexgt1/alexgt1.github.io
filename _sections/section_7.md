@@ -15,18 +15,15 @@ Control flow statements were useful here as the metadata varied from programme t
 The code below indicates that I'd like to display each programme in the programmes collection. 
 
     <div class="owl-carousel">
-     
     {% for programme in site.programmes %}
-      <div class="card" style="width: 18rem;">
-        <img src="{{ programme.img_path }}" class="card-img-top" alt="...">
-        <div class="card-body">
-          <a class="view-more" href="{{ programme.url }}"><h5 class="card-title">{{ programme.page_title}}</h5></a>
-          <p class="card-text">{{ programme.description }}</p>
-          <div class="view-more">
-            <a href="{{ programme.url }}">View More <i class="fa fa-arrow-right"></i></a>
-          </div>
-     
-      
+    <div class="card" style="width: 18rem;">
+    <img src="{{ programme.img_path }}" class="card-img-top" alt="...">
+    <div class="card-body">
+    <a class="view-more" href="{{ programme.url }}"><h5 class="card-title">{{ programme.page_title}}</h5></a>
+    <p class="card-text">{{ programme.description }}</p>
+    <div class="view-more">
+    <a href="{{ programme.url }}">View More <i class="fa fa-arrow-right"></i></a>
+    </div>
           {% if programme.button_title %}
           <a target="_blank" href="{{ programme.button_link }}" class="btn btn-1 btn-1a">{{ programme.button_title }}</a>
           <br>
