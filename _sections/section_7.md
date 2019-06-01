@@ -19,8 +19,10 @@ The code below indicates that I'd like to display each programme in the programm
 Below I then check to see if the programme has a button title. If so then I would like to display the button link as well.
 If there is no button title then I won't display a button for this programme. 
 
+The use of a control flow statement means that a button can be added further down the track for any of the other programmes while also preventing a functionless button from being displayed for the time being. 
+
 <script src="https://snipsave.com/embed/aN0YLZBAFjovtA06Ac.js"></script>
 
-The red box below shows what the front matter of a programme with a button would look like. 
+Here's a closer look at what the front matter of a programme with a button would look like. 
 
 ![Current Site](../frontmatter.PNG)
