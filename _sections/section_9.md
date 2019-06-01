@@ -1,5 +1,5 @@
 ---
-section_number: 09
+section_number: 08
 section_title: Making the switch to CloudCannon
 
 ---
