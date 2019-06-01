@@ -22,6 +22,6 @@ Pictured below is how the MarkDown file is structured.
 
 The top section, known as the front matter contains page variables such as page name and description while the second section below the three dashes contains the main content of the page. 
 
-![Current Site](../learn.PNG)
+![Current Site](../edit.PNG)
 
     
