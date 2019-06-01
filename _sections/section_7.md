@@ -14,7 +14,12 @@ Control flow statements were useful here as the metadata varied from programme t
 
 The code below indicates that I'd like to display each programme in the programmes collection. 
 
-<script src="https://gist.github.com/thetanewzealand/4b8a7d5e37d496595ac6948637c52d93.js"></script>
+<script src="https://snipsave.com/embed/R4YCIDYWJNKwB3mB60.js"></script>
+
+Below I then check to see if the programme has a button title. If so then I would like to display the button link as well.
+If there is no button title then I won't display a button for this programme. 
+
+<script src="https://snipsave.com/embed/aN0YLZBAFjovtA06Ac.js"></script>
 
 The red box below shows what the front matter of a programme with a button would look like. 
 
