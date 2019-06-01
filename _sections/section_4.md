@@ -1,6 +1,6 @@
 ---
 section_number: 04
-section_title: 1. Understanding Jekyll and Deploying my Server
+section_title: Understanding Jekyll and Deploying my Server
 
 ---
 
