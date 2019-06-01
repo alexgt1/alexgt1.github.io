@@ -14,27 +14,30 @@ Control flow statements were useful here as the metadata varied from programme t
 
 The code below indicates that I'd like to display each programme in the programmes collection. 
 
-    <div class="owl-carousel">
-    {% for programme in site.programmes %}
-    <div class="card" style="width: 18rem;">
-    <img src="{{ programme.img_path }}" class="card-img-top" alt="...">
-    <div class="card-body">
-    <a class="view-more" href="{{ programme.url }}"><h5 class="card-title">{{ programme.page_title}}</h5></a>
-    <p class="card-text">{{ programme.description }}</p>
-    <div class="view-more">
-    <a href="{{ programme.url }}">View More <i class="fa fa-arrow-right"></i></a>
-    </div>
+        <div class="owl-carousel">
+         
+        {% for programme in site.programmes %}
+           <div class="card" style="width: 18rem;">
+            <img src="{{ programme.img_path }}" class="card-img-top" alt="...">
+        <div class="card-body">
+          <a class="view-more" href="{{ programme.url }}"><h5 class="card-title">{{ programme.page_title}}</h5></a>
+          <p class="card-text">{{ programme.description }}</p>
+          <div class="view-more">
+            <a href="{{ programme.url }}">View More <i class="fa fa-arrow-right"></i></a>
+          </div>
+     
+      
           {% if programme.button_title %}
           <a target="_blank" href="{{ programme.button_link }}" class="btn btn-1 btn-1a">{{ programme.button_title }}</a>
           <br>
           {% endif %}
+         </div>
         </div>
-      </div>
-      {% endfor %}
-    </div>
+        {% endfor %}
+        </div>
 
 
-The code below checks each programme in the programmes collection for the button_title variable. If a programme has this variable then the button link should also be displayed as part of the programmes section. Alternatively, if a programme doesn't have a button title then no button will be displayed. 
+
 
 The red box below shows what the front matter of a programme with a button would look like. 
 
