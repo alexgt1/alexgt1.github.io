@@ -4,7 +4,7 @@ section_title: 1. Understanding Jekyll and Deploying my Server
 
 ---
 
-Today I began working with Jekyll. I had used prebuilt Jekyll themes in the past for Project 1 and Software Engineering but seeing as I was building this site from the ground up I thought it would be a good idea to get a proper understanding of what Jekyll actually is and how it varies from other web technologies. 
+Today I began working with Jekyll. I had used prebuilt Jekyll themes in the past for Project 1 and Software Engineering but seeing as I was building this site from the ground up I thought it would be a good idea to get a proper understanding of Jekyll and how it varies from other web technologies. 
 
 Below are a few key take aways I thought were interesting these help to distinguish Jekyll from your basic HTML or Wordpress based sites.
 
