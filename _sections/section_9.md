@@ -11,3 +11,8 @@ I set a CloudCannon account for THETA and started to sync the websites repositor
 The process was seamless and CloudCannon set up the various site pages and collections in a similar way to how files would be displayed in other content management systems such as WordPress or SilverStripe. I thought this was very convenient as the THETA sites current back end was a SilverStripe CMS which meant the transition to the CloudCannon CMS would be straightforward for Grant. 
 
 ![Current Site](../dashboard.PNG)
+
+
+File Structure 
+
+![Current Site](../files.PNG)
