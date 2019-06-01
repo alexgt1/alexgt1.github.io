@@ -8,7 +8,7 @@ Control flow statements are a feature of liquid, similar to what you would find 
 
 I used control flow statments several times in the THETA site including on the home page for the programmes slider. This section is simply an interactive display of the various programmes THETA provide to schools. 
 
-Control flow statements were useful here as the metadata varied from programme to programme. Some programmes had external link buttons to there own websites while other didn't **pictured below**
+Control flow statements were useful here as the metadata varied from programme to programme. Some programmes had external link buttons to there own websites while others didn't as shown below.
 
 ![Current Site](../controlflow.PNG)
 
