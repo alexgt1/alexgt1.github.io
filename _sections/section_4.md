@@ -1,10 +1,29 @@
 ---
 section_number: 04
-section_title: Getting started with Jekyll
+section_title: Understanding Jekyll and Deploying my Server
 
 ---
 
-The mid term break has finally come around which meant I had a decent chunk of time to dedicate to learning Jekyll. I had used Jekyll in project the previous semester and in Multimedia during second year but had to learn it from the ground up this time for the Theta site to function the way I wanted it to.  
+Today I began working with Jekyll. I had used prebuilt Jekyll themes in the past for Project 1 and Software Engineering but seeing as I was building this site from the ground up I thought it would be a good idea to get a proper understanding of what Jekyll actually is and how it varies from other web technologies. 
+
+Below are a few key take aways I thought were interesting these help to distinguish Jekyll from your basic HTML or Wordpress based sites.
+
+### What is Jekyll?
+Jekyll is a static site generator. It is actively maintained and has the largest community of all the static site generators.
+
+### What is a static site generator?
+A static site generator takes source files and generates an entirely static website. Static sites such as Jekyll are extremely fast as the web server only needs to return a file. This is a lot different to a wordpress site for example which has to build a whole page from scratch on every request. This is tedious and involves putting together all the template files and getting any content or data from the database. This is made worse if the site is using plygins as well.
+
+
+### Security
+Not only are Jekyll sites fast but because there are only static files on the server there's nothing dynamic that can be exploited. Therefore the risk of your site being hacked is greatly reduced. 
+
+
+### Version control. 
+All the source code for our Jekyll site can live in a version control system such as Git. With git we can go back to any single version of the site in its entire history This also servers as an offsite backup, if we ever need to restore a server all of the files we need to restre are in the git repository. 
+
+
+## Setting up my Jekyll Server
 
 To set up Jekyll I used:
 

@@ -34,7 +34,7 @@ Pictured: the Programmes collection. I was able to use a control flow statement 
 
 ![Current Site](../collections.PNG)
 
-This video from CloudCannon effectively descriped how to easily set up collections for your website. 
+This video from CloudCannon effectively described how to easily set up collections for your website. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o7ygmIRgvUA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
