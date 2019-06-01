@@ -21,6 +21,7 @@ I defined my collections in the _config.yml file pictured below
     	about:
     	output: true
 
+
 The items/documents within a collection live in a folder in the root of the site. This folder is named after the specific collection name. e.g. for programmes the folder name would be _programmes
 
 The items in each folder are also written in markdown and can specify variables such as layout and title the same as any other markdown file.
@@ -28,3 +29,12 @@ The items in each folder are also written in markdown and can specify variables 
 By specifying **output: true** in _config.yml for each collection it means that Jekyll will create a page for each document. 
 
 While this isn't neccessary for every collection it was very useful for the likes of the programme collection as these did require their own page for each programme. 
+
+Pictured: the Programmes collection. I was able to use a control flow statement to display each of the programmes in the Programmes collection in the navigation bar and open each programme in a new page when clicked. 
+
+![Current Site](../collections.PNG)
+
+This video from CloudCannon effectively descriped how to easily set up collections for your website. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o7ygmIRgvUA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
