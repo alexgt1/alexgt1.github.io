@@ -35,3 +35,5 @@ This command built my site and created a second version in the _site directory. 
 **I found this video useful for setting up my Jekyll site**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NJU1wluNrBw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Once I had the server set up I was able to start creating my page layouts. 

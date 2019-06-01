@@ -4,7 +4,11 @@ section_title: Second meeting with Grant
 
 ---
 
-As I had more a less finished the website I thought it would be appropriate to arrange a follow up meeting with Grant to discuss the site and any further input he might have. 
+I got in touch with Grant to arrange a second meeting. As I had more a less finished the website I thought it would be appropriate to arrange a follow up meeting with Grant to discuss the site and any further input he might have.
+
+![Current Site](../email1.PNG)
+
+![Current Site](../email2.PNG)
 
 It was a good chance to show him how to use the back end of the website, which was now in CloudCannon as well where to find the documentation I'd prepared for him.
 
