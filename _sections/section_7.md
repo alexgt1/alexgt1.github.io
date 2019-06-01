@@ -25,9 +25,8 @@ The code below indicates that I'd like to display each programme in the programm
           <div class="view-more">
             <a href="{{ programme.url }}">View More <i class="fa fa-arrow-right"></i></a>
           </div>
-
-The code below checks each programme in the programmes collection for the button_title variable. If a programme has this variable then the button link should also be displayed as part of the programmes section. Alternatively, if a programme doesn't have a button title then no button will be displayed. 
-
+     
+      
           {% if programme.button_title %}
           <a target="_blank" href="{{ programme.button_link }}" class="btn btn-1 btn-1a">{{ programme.button_title }}</a>
           <br>
@@ -36,6 +35,9 @@ The code below checks each programme in the programmes collection for the button
       </div>
       {% endfor %}
     </div>
+
+
+The code below checks each programme in the programmes collection for the button_title variable. If a programme has this variable then the button link should also be displayed as part of the programmes section. Alternatively, if a programme doesn't have a button title then no button will be displayed. 
 
 The red box below shows what the front matter of a programme with a button would look like. 
 
