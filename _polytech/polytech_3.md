@@ -1,6 +1,6 @@
 ---
-section_number: 2
-section_title: Design Process
+section_number: 3
+section_title: Site Photos
 
 ---
 
