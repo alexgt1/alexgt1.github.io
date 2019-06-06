@@ -7,16 +7,16 @@ layout: index
 
 #### CodeCraft May Meetup
   
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non egestas diam, non tempus ante. Quisque posuere risus at massa placerat maximus. Maecenas facilisis nibh orci, at semper ex finibus in. Vivamus ex neque, vehicula congue maximus vitae, tempor viverra nulla. Duis feugiat mauris et neque efficitur imperdiet.
-
+This months meetup was based around git. Some of the talks included distributed version control and the history of git.
+I found the talks interesting but struggled to grasp a lot of what was being said as the majority of the people in the room had more than a decades worth of version control experience than I did.
 
 #### CodeCraft June Meetup
   
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non egestas diam, non tempus ante. Quisque posuere risus at massa placerat maximus. Maecenas facilisis nibh orci, at semper ex finibus in. Vivamus ex neque, vehicu
+The topic of discussion for this months meetup was "war stories" in IT. / "how I broke it and got away with it/fixed it". Again this talk had a high level of complexity to it but I was able to appreciate it as it also covered a lot of the experiences the speakers were exposed to while working in the industry. 
 
 
 ## External Engagement
 
 #### Volunteering in Mosgiel 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non egestas diam, non tempus ante. Quisque posuere risus at massa placerat maximus. Maecenas facilisis nibh orci, at semper ex finibus in. Vivamus ex neque, vehicula congue maximus vitae, tempor viverra nulla. Duis feugiat mauris et neque efficitur imperdiet.
+Over the semester I did several trips out to Mosgiel Library as part of the BIT's volunteering project. 
