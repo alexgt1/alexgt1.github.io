@@ -75,10 +75,10 @@
 </nav>
 
 
-        {% for section in site.stbarnabas %}
-        <div class="section-divider" id="{{section.section_number}}">
-          <h1>{{ section.section_title }}</h1>
-          <p>{{ section.content }}</p>
+        {% for page in site.stbarnabas %}
+        <div class="section-divider" id="{{page.section_number}}">
+          <h1>{{ page.section_title }}</h1>
+          <p>{{ page.content }}</p>
           <hr>
         </div>
         {% endfor %}
@@ -90,8 +90,8 @@
         
         <div class="list-group d-sm-none">
           <a class="list-group-item list-group-item-action active"><i class="fas fa-info-circle"></i> Menu</a>
-          {% for section in site.stbarnabas %}
-          <a href="#{{section.section_number}}" class="list-group-item list-group-item-action"> {{ section.section_title }}</a>
+          {% for page in site.stbarnabas %}
+          <a href="#{{page.section_number}}" class="list-group-item list-group-item-action"> {{ page.section_title }}</a>
           {% endfor %}
           </div>
       </div>
