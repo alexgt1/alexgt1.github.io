@@ -73,26 +73,20 @@
     <li class="breadcrumb-item active" aria-current="page">St. Barnabas</li>
   </ol>
 </nav>
-
-
-        {% for page in site.stbarnabas %}
         <div class="section-divider" id="{{page.section_number}}">
-          <h1>{{ page.section_title }}</h1>
-          <p>{{ page.content }}</p>
+          <h1>Section 1</h1>
+          <p>Paragraph one</p>
           <hr>
         </div>
-        {% endfor %}
-
-
       </div>
       <div class="col-md-3 offset-md-1 rhs d-sm-none d-xs-none">
 
         
         <div class="list-group d-sm-none">
           <a class="list-group-item list-group-item-action active"><i class="fas fa-info-circle"></i> Menu</a>
-          {% for page in site.stbarnabas %}
-          <a href="#{{page.section_number}}" class="list-group-item list-group-item-action"> {{ page.section_title }}</a>
-          {% endfor %}
+          
+          <a href="#{{page.section_number}}" class="list-group-item list-group-item-action"> Section 1</a>
+          
           </div>
       </div>
     </div>
