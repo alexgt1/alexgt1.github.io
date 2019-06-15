@@ -3,9 +3,3 @@ section_number: 2
 section_title: Design Process
 
 ---
-
-I decided to use the following programs for this website:
-
-Jekyll
-
-SASS 
