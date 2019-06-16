@@ -4,4 +4,16 @@ section_title: Site Layout
 
 ---
 
-Decided I'd go for a 
+At the beginning of the project I'd decided to have a main page and then indiviudal pages for each project. 
+
+After some consideration, I decided it would infact be more practical to have one page for the whole site which displays all the various project groups.
+
+Every project will have their own image box which the user can click on if they're interested in seeing what the project is about. From here, a modal window will open up with information on that project. I thought this was a good way to display the information as it would reduce the loading time experienced when loading up a new page and would in turn allow more people to use the page as it would be less complicated and people could move on faster. 
+
+For the modal window I went with the large modal which is part of the BootStrap 4 library. 
+
+<script src="https://snipsave.com/embed/p46nvYInQCO4X9fiH5.js"></script>
+
+Here is how the modal windows turned out after I added styling
+
+![ModalWindow](modalwindow.png)
