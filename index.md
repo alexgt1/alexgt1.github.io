@@ -6,7 +6,7 @@ layout: index
 ## Professional Development
   
 
-#### CodeCraft May Meetup
+#### <i class="fas fa-user-tie"></i> CodeCraft May Meetup
   
 This months meetup was based around git. Some of the talks included distributed version control and the history of git.
 I found the talks interesting but struggled to grasp a lot of what was being said as the majority of the people in the room had more than a decades worth of version control experience than I did.
