@@ -19,7 +19,7 @@ The topic of discussion for this months meetup was "war stories" in IT. / "how I
 
 ![CodeCraft May](codecraftmay.PNG)
 
-## External Engagement
+## <i class="fas fa-hands-helping"></i> External Engagement
 
 #### Volunteering in Mosgiel 
 
