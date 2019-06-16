@@ -20,4 +20,6 @@ Once I had the dimesnions of the image selected I clicked *Select Inverse* this 
 
 After this I clicked delete to remove this part of the image, which left me with a circular render of the original image. 
 
+## Here's the finished product
+
 ![marqueetool](aboutus.PNG)
