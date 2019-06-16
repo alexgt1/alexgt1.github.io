@@ -1,11 +1,6 @@
 ---
-section_number: 4
+section_number: 2
 section_title: Setting up Image Boxes for Projects
 
 ---
-
-I decided to use the following programs for this website:
-
-Jekyll
-
-SASS 
+Spent todays class putting together the image boxes for each of the projects.
