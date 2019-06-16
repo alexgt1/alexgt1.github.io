@@ -13,6 +13,6 @@ The slideshow also came with documentation which made it easy to implement as it
 
 As there was a fair amount of code to quickly summarise the process I used an unordered list for the slideshow and added a span for each image and a division with a heading. The spans are the elements that hold background images of the slideshow.
 
-<script src="https://snipsave.com/embed/N08mq1J7EIbzfm15lC.js"></script>
+<script src="https://snipsave.com/embed/3fWc42P0Ic38nITkJw.js"></script>
 
 ![Site Animation](theanimation.PNG)
