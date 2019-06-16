@@ -24,3 +24,5 @@ The topic of discussion for this months meetup was "war stories" in IT. / "how I
 #### Volunteering in Mosgiel 
 
 Over the semester I did several trips out to Mosgiel Library as part of the BIT's volunteering project. 
+
+![Volunteering](volunteering.png)
