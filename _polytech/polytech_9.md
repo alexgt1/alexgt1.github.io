@@ -1,19 +1,7 @@
 ---
-section_number: 8
-section_title: Adding Extra Features
+section_number: 9
+section_title: Project Summary
 
 ---
 
-I've added about us much as I can to the site at this point and am just waiting on some content for each of the projects.
-
-I spent todays class touching up some of the features and adding extras where I thought it was necessary.
-
-This included using some javascript to implement a back to the top button.
-
-Pictured below is the code I used for the button itself. As well as this I added the ID 'page-top' to the body tag.
-
-<script src="https://snipsave.com/embed/ay7uhU9DRMEuHTpdhG.js"></script>
-
-Below is the styling I used.
-
-<script src="https://snipsave.com/embed/Q1CoKNFNB9UphjONLL.js"></script>
+Overall I found this project to be the most rewarding out of the three sites I put together. This was largely due to the fact that it was for the Polytech itself so I felt obliged to put in more effort to make it look authentic both in terms of the interface and the experience the user gets from using the site. If there were any takeaways from the project it would be that the best way to get inspiration is to browse other sites and pick and choose components that you think would be applicable to the site you're working on. As well as this it was good to use Bootstrap again, this time round I feel as though I managed to get the site responsiveness to a point where the website displays on phones but displays each section clearly and tidily regardless of device. 
