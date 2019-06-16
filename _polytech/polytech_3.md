@@ -33,4 +33,6 @@ Finally here's a look at how I defined the background images for all the spans a
 
 <script src="https://snipsave.com/embed/oHL10dfXXzUfdYf23Z.js"></script>
 
+Here's a look at the finished product, the image spans the full width of the page and alternates between 5 different pictures.
+
 ![Site Animation](theanimation.PNG)
