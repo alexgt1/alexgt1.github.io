@@ -10,6 +10,10 @@ I spent todays class touching up some of the features and adding extras where I 
 
 This included using some javascript to implement a back to the top button.
 
-Pictured below is the code I used for the button itself. I added the ID 
+Pictured below is the code I used for the button itself. As well as this I added the ID 'page-top' to the body tag.
 
 <script src="https://snipsave.com/embed/ay7uhU9DRMEuHTpdhG.js"></script>
+
+Below is the styling I used.
+
+<script src="https://snipsave.com/embed/Q1CoKNFNB9UphjONLL.js"></script>
