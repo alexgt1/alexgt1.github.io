@@ -16,3 +16,5 @@ I added a hover effect to each of the boxes so that when the user hovers over to
 <script src="https://snipsave.com/embed/HdHRlvRfHjXDV24POS.js"></script>
 
 From here the user can click into the project which opens up as a modal window.
+
+<img src="hoverimg.png">
