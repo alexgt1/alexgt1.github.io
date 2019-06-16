@@ -15,5 +15,4 @@ As there was a fair amount of code to quickly summarise the process I used an un
 
 <script src="https://snipsave.com/embed/N08mq1J7EIbzfm15lC.js"></script>
 
-
 ![Site Animation](theanimation.PNG)
