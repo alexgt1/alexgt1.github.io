@@ -16,4 +16,4 @@ For the modal window I went with the large modal which is part of the BootStrap 
 
 Here is how the modal windows turned out after I added styling
 
-![ModalWindow](modalwindow.png)
+![ModalWindow](modalwindow.PNG)
