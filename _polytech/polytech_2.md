@@ -21,3 +21,8 @@ The user can click on any of the below image boxes. The image box is linked to a
 Here is how the modal looks when it expands. 
 
 ![ModalWindow](modalwindow.PNG)
+
+For the page colour scheme I kept it aligned with the branding guidelines on the polytech website
+[View Brand Guidelines](https://www.op.ac.nz/about-us/media-marketing-and-bookings/logo/)
+
+![ModalWindow](primarycolours.PNG)
