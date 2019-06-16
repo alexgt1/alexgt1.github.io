@@ -14,6 +14,10 @@ For the modal window I went with the large modal which is part of the BootStrap 
 
 <script src="https://snipsave.com/embed/p46nvYInQCO4X9fiH5.js"></script>
 
-Here is how the modal windows turned out after I added styling
+The user can click on any of the below image boxes. The image box is linked to a modal which expands to the width of the page. 
+
+![ModalWindow](modalwindow.PNG)
+
+Here is how the modal looks when it expands. 
 
 ![ModalWindow](modalwindow.PNG)
