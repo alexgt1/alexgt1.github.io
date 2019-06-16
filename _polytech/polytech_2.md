@@ -24,6 +24,6 @@ Here is how the modal looks when it expands.
 
 For the page colour scheme I kept it aligned with the branding guidelines on the polytech website
 
-[View Brand Guidelines](https://www.op.ac.nz/about-us/media-marketing-and-bookings/logo/)
+#### [View Brand Guidelines](https://www.op.ac.nz/about-us/media-marketing-and-bookings/logo/)
 
 ![ModalWindow](primarycolours.PNG)
