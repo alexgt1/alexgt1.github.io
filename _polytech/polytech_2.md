@@ -16,7 +16,7 @@ For the modal window I went with the large modal which is part of the BootStrap 
 
 The user can click on any of the below image boxes. The image box is linked to a modal which expands to the width of the page. 
 
-![ModalWindow](modalwindow.PNG)
+![ModalWindow](projects.PNG)
 
 Here is how the modal looks when it expands. 
 
