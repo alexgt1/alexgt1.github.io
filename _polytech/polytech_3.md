@@ -1,11 +1,9 @@
 ---
 section_number: 3
-section_title: Site Photos
+section_title: Setting up the slideshow
 
 ---
 
-I decided to use the following programs for this website:
+I thought using an animation in the page header would be an effective way to showcase the range of different groups and activities on offer in project.
 
-Jekyll
-
-SASS 
+![Site Animation](theanimation.PNG)
